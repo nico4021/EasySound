@@ -1,0 +1,14 @@
+
+<resources>
+
+    <string name="app_name">EasySound</string>
+    <string name="action_settings">Settings</string>
+    <string name="Mensajes">Messages</string>
+    <string name="Ringtone">Ringtone</string>
+    <string name="txtvSelectedSong">Selected Song</string>
+    <string name="txtfSelectedSong">Selected Song</string>
+    <string name="btnSelectSong">Select Song</string>
+	<string name="ApplySms">Apply As Notification</string>
+	<string name="ApplyLlamada">Apply As Ringtone</string>
+</resources>
+

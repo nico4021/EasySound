@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">EasySound</string>
+    <string name="action_settings">Settings</string>
+    <string name="Mensajes">Messages</string>
+    <string name="Ringtone">Ringtone</string>
+    <string name="Apply">Apply</string>
+    <string name="Vibrate">Vibrate</string>
+    <string name="txtvSelectedSong">Selected Song</string>
+    <string name="txtfSelectedSong">Selected Song</string>
+    <string name="btnSelectSong">Select Song</string>
+
+</resources>
+

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">EasySound</string>
+    <string name="action_settings">Settings</string>
+    <string name="Mensajes">Mensajes</string>
+    <string name="Ringtone">Tono</string>
+    <string name="txtvSelectedSong">Canción Seleccionada</string>
+    <string name="txtfSelectedSong">Canción Seleccionada</string>
+    <string name="btnSelectSong">Seleccionar Canción</string>
+	<string name="ApplySms">Aplicar Como Mensaje</string>
+	<string name="ApplyLlamada">Aplicar Como Llamada</string>
+
+</resources>
+
